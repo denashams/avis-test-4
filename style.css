@@ -1,0 +1,27 @@
+body {
+  background-image: linear-gradient(to right, #0f0c29, #302b63, #24243e);
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+.textdiv {
+  text-decoration: none;
+  color: #fee2ba;
+  font-size: 60px;
+  text-align: right;
+  position: absolute;
+  top: 8%;
+  left: 70%;
+  padding: 120px 20px;
+}
+
+.page-links a {
+  font-size: 30px;
+  color: #fee2ba;
+  text-decoration-color: #e06a42;
+  text-underline-offset: 15px;
+  line-height: 80px;
+}
+.page-links {
+  margin: 50px 40px;
+}
